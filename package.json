@@ -1,0 +1,16 @@
+{
+  "name": "unit-testing-exercise",
+  "version": "1.0.0",
+  "description": "Unit testing exercise",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "author": "John Pascual",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.1.2",
+    "jest-each": "^28.1.1"
+  }
+}
